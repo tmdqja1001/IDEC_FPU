@@ -1,3 +1,7 @@
+/*
+Simple FP adder with TB
+Designed to meet IEEE 754
+*/
 module top_module ();
     // A testbench
     reg [31:0] a=0;
