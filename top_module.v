@@ -77,7 +77,7 @@ module top_module ();
         
         #50 $finish; // Quit the simulation
     end
-    adder add(a, b, clk, reset, out); // Sub-modules work too.
+    adder add(a, b, clk, reset, out); // instance DUT
 endmodule
 
 module adder(
