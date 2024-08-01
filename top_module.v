@@ -6,8 +6,8 @@ module top_module ();
     // A testbench
     reg [31:0] a=0;
     reg [31:0] b=0;
-    wire [31:0] out;
-    reg [31:0] c1=0;
+    wire [31:0] out;  // output by DUT
+    reg [31:0] c1=0;  // Expected output (golden)
     reg clk;
     reg reset;
 
