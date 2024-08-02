@@ -30,17 +30,17 @@ int main()
 		cout<< "#" << i << " : ";
 		cout<< a << " " << b << " ";
 		cout<< " a : ";
-    	printFP(a);
+    		printFP(a);
 		cout<< " b : ";
 		printFP(b);
-    	cout << "\n";
-    	
-    	c = a + b;
-    	cout << "a + b = ";
-    	cout << c;
-    	cout << " c : ";
-    	printFP(c);
-    	cout << "\n";
+	    	cout << "\n";
+	    	
+	    	c = a + b;
+	    	cout << "a + b = ";
+	    	cout << c;
+	    	cout << " c : ";
+	    	printFP(c);
+	    	cout << "\n";
 	}
 
 	return 0;
