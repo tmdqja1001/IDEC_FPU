@@ -1,6 +1,6 @@
 /*
 Single precision FP adder with TB
-Pipelined to 3 stage (align - excute - normalize)
+3 stage pipeline (align - execute - normalize)
 Designed to meet IEEE 754
 */
 module top_module ();
