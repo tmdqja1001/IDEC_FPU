@@ -1,6 +1,6 @@
 /*
 Random floating point number generator with adder
-Test case genertor for veritication verilog HDL.
+Test case generator for veritication of verilog HDL.
 */
 
 #include <iostream>
