@@ -1,5 +1,5 @@
 /*
-Simple FP adder with TB
+Single precision FP adder with TB
 Designed to meet IEEE 754
 */
 module top_module ();
